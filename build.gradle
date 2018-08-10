@@ -37,11 +37,11 @@ ext {
     buildToolsVersion = '27.0.3'
     compileSdkVersion = 27
 
-    minSdk = 18
-    targetSdk = 22
+    minSdk = 21
+    targetSdk = 27
 
     // Libraries Version Code
-    supportLibVersion = '26.1.0'
+    supportLibVersion = '27.1.1'
 
     frescoVersion = '1.9.0'
     SSIVVersion = '3.10.0'
